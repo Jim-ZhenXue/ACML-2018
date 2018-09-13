@@ -28,14 +28,8 @@ Dr. Wei Cui, Shanghai Yixue Education Technology Ltd., China          cuiwei@son
 
 Prof. Xiangen Hu, University of Memphis                             xhu@memphis.edu
 
+Dr. Sam Wang, SRI international (Stanford Research Institute), USA         sam.wang@sri.com
+
 Dr. Zhen Xue, Shanghai Yixue Education Technology Ltd., China       xuezhen@songshuai.com
 
-## References:
-1)Hu X., Xu Y.J., Hall C., Walker K., Okwumabua T. (2013) A Potential Technological Solution for Reducing the Achievement Gap Between White And Black Students. Knowledge Spaces. Springer
-
-2)Wang Tai, Zhou Zongkui, Hu Xiangen et al (2018). Latent topics resonance in scientific literature and commentaries: evidences from natural language processing approach. Heliyon. 4. e00659. 10.1016/j.heliyon.2018.e00659.
-
-3) Feng M., Cui W., & Wang S. (2018). Adaptive learning goes to China. Artificial Intelligence in Education, 10948, 89-93. Springer
-
-4)Li H., Cui W., Xu Z., Zhu Z., & Feng M. (2018). Yixue adaptive learning system and its promise on improving student learning. Proceedings of the 10th International Conference on Computer Supported Education. http://www.scitepress.org/Papers/2018/66898/66898.pdf
 
