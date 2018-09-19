@@ -48,7 +48,7 @@ Interested topics include, but are not limited to:
 
 ## Organizers:
 
-Dr. Wei Cui, Shanghai Yixue Education Technology Ltd., China, cuiwei@songshuai.com，http://www.classba.cn/en/cui_wei.html
+Dr. Wei Cui, Shanghai Yixue Education Technology Ltd., China, cuiwei@songshuai.com，http://www.squirrelai.us/cui_wei.html
 
 Prof. Xiangen Hu, University of Memphis, xhu@memphis.edu，http://www.memphis.edu/psychology/people/faculty/hu.php
 
