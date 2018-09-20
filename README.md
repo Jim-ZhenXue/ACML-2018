@@ -19,32 +19,35 @@ Interested topics include, but are not limited to:
 
 ## Tentative schedule: (14 Nov 2018)
 
-8:30 - 8:40 Introduction
+8:50 - 9:00 Introduction
 
-8:40 - 9:20 Invited talk
+9:00 - 9:40 Invited talk
 
-9:20 - 9:30 discussion
+9:40 - 10:00 morning tea
 
-9:30 - 10:00 presentation
+10:00 - 10:25 presentation
 
-10:00 - 10:30 Morning tea
+10:25 - 10:50 presentation
 
-10:30 - 11:10 presentation
+10:50 - 11:05 presentation
 
-11:10 - 11:20 discussion
+11:05 - 11:20 discussion
 
-11:20 - 12:00 presentation
+11:20 - 11:40 presentation
+
+11:40 - 12:00 presentation
 
 
-13:00 - 13:30 invited talk
+13:00 - 13:40 invited talk
 
-13:30 - 13:40 discussion
+13:40 - 13:55 afternoon tea
 
-13:40 - 14:10 presentation
+13:55 - 14:20 presentation
 
-14:10 - 14:20 discussion
+14:20 - 14:45 presentation
 
-14:20 - 15:00 presentation
+14:45 - 15:00 presentation
+
 
 ## Organizers:
 
