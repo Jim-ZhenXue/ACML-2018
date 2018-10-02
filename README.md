@@ -33,7 +33,7 @@ Interested topics include, but are not limited to:
 
 11:30 - 12:00 presentation
 
-
+12:00 - 13:00 lunch break
 
 13:00 - 13:30 presentation
 
