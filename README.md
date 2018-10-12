@@ -19,29 +19,29 @@ Interested topics include, but are not limited to:
 
 ## Tentative schedule: (14 Nov 2018)
 
-8:40 - 9:30 Invited talk
+8:30 - 9:20 Invited talk
 
-9:30 - 9:50 presentation
+9:20 - 9:40 presentation
 
-9:50 - 10:10 presentation
+9:40 - 10:00 presentation
 
-10:10 - 10:30 coffee break
+10:00 - 10:20 coffee break
 
-10:30 - 11:00 presentation
+10:20 - 10:50 presentation
 
-11:00 - 11:30 presentation
+10:50 - 11:20 presentation
 
-11:30 - 12:00 presentation
+11:20 - 11:50 presentation
 
-12:00 - 13:00 lunch break
-
-13:00 - 13:30 presentation
+11:50 - 13:30 lunch break
 
 13:30 - 14:00 presentation
 
 14:00 - 14:30 presentation
 
 14:30 - 15:00 presentation
+
+15:00 - 15:30 presentation
 
 
 ## Organizers:
