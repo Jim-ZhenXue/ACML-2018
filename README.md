@@ -19,29 +19,23 @@ Interested topics include, but are not limited to:
 
 ## Tentative schedule: (14 Nov 2018)
 
-8:30 - 9:20 Invited talk
+08:30 - 08:40 Opening
 
-9:20 - 9:40 presentation
+08:40 - 09:30 Dr. Tingshao Zhu 
 
-9:40 - 10:00 presentation
+09:30 - 10:10 Dr. Dan Bindman
 
-10:00 - 10:20 coffee break
+10:10 - 10:30 coffee break
 
-10:20 - 10:50 presentation
+10:30 - 11:10 Dr. Jie Tang
 
-10:50 - 11:20 presentation
+11:10 - 11:50 Dr. Jing Zhang
 
-11:20 - 11:50 presentation
+11:50 - 14:00 lunch break
 
-11:50 - 13:30 lunch break
+14:00 - 14:40 Dr. Yu Lu
 
-13:30 - 14:00 presentation
-
-14:00 - 14:30 presentation
-
-14:30 - 15:00 presentation
-
-15:00 - 15:30 presentation
+14:40 - 15:20 Dr. Yupei Zhang
 
 
 ## Organizers:
