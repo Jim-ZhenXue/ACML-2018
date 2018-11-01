@@ -22,39 +22,26 @@ Interested topics include, but are not limited to:
 08:30 - 08:40 Opening
 
 08:40 - 09:30 Identifying Personality by Content Analysis  
-
 by Dr. Tingshao Zhu, talents program of Chinese Academy of Sciences 
 
-
-09:30 - 10:10 Increasing Our Knowledge: Introducing A New Multi-Dimensional Model for Knowledge Assessment and Learning  
-
+09:30 - 10:10 Increasing Our Knowledge: Introducing A New Multi-Dimensional Model for Knowledge Assessment and Learning   
 by Dr. Dan Bindman, chief data scientist of Yixue Education
-
 
 10:10 - 10:30 coffee break
 
-
 10:30 - 11:10 Connecting Heterogeneous Social Networks(1)
-
 by Dr. Jie Tang, professor of Tsinghua University
 
-
 11:10 - 11:50 Connecting Heterogeneous Social Networks(2)
-
 by Dr. Jing Zhang, professor of Renmin University of China
-
 
 11:50 - 14:00 lunch break
 
-
 14:00 - 14:40 Data-Driven Learning Analytics and its Applications
-
 by Dr. Yu Lu, professor of Beijing Normal University
 
-
 14:40 - 15:20 Machine Learning for Personalized Teaching and Learning
-
-by Dr. Yupei Zhang
+by Dr. Yupei Zhang, professor of Northwest Polytechnical University
 
 
 ## Organizers:
