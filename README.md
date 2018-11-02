@@ -51,6 +51,8 @@ What are the key components for a strong adaptive learning system? (1) Very stro
 In this talk, we will focus on a new model that can help with (2) and (3). We measure student knowledge with the Probabilistic Knowledge State (PKS). It is assumed that a student’s PKS accurately and completely reflects the underlying knowledge of the student. That is, the PKS gives the actual probabilities correct for the student at any given time t; they would not be closer to 0 or 1 even if we were “all knowing” and knew everything about the student. So in this model, students can have “partial knowledge” or “partial mastery” of a given question such that the probability correct for this question is substantially higher than the probability of a lucky guess, but still far from the maximum probability correct that the students could attain if they had completely mastered the question. This is a very important aspect of the model.
 
 
+
+
 10:10 - 10:30 coffee break
 
 
@@ -61,6 +63,9 @@ by Dr. Jie Tang, Tsinghua University
 Biography:
 Dr. Tang is an associate professor in Department of Computer Science and Technology of Tsinghua University. He obtained my Ph.D. in DCST of Tsinghua University in 2006. He became ACM Professional member in 2006, IEEE member in 2007, and CCF Distinguished Member in 2015. His research interests include social network theories, data mining methodologies, machine learning algorithms, and semantic web technologies.
 Dr. Tang has been visiting scholar at Cornell University (working with John Hopcroft), University of Illinois at Urbana-Champaign (short term, working with Jiawei Han), Chinese University of Hong Kong (working with Jeffrey Yu), and Hong Kong University of Science and Technology (working with Qiong Luo). During his graduate career, He has been an intern at NLC group of Microsoft Research Asia from 2004 to 2005. He also have attended the internship program of IBM China Research Lab in 2004.
+
+
+
 
 
 11:10 - 11:50 Connecting Heterogeneous Social Networks(2)
