@@ -24,7 +24,7 @@ Interested topics include, but are not limited to:
 
 08:40 - 09:30 Identifying Personality by Content Analysis  
 
-by Dr. Tingshao Zhu, talents program of Chinese Academy of Sciences 
+by Dr. Tingshao Zhu, professor enlisted in hundred talents program of Chinese Academy of Sciences 
 
 
 09:30 - 10:10 Increasing Our Knowledge: Introducing A New Multi-Dimensional Model for Knowledge Assessment and Learning   
