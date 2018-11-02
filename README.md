@@ -20,6 +20,7 @@ Interested topics include, but are not limited to:
 ## Tentative schedule: (14 Nov 2018)
 
 08:30 - 08:40 Opening
+****************************************************************
 
 
 08:40 - 09:30 Identifying Personality by Content Analysis  
@@ -34,7 +35,7 @@ He has published over 60 papers in major international academic conferences and 
 Abstract:
 Because of its richness and availability, social media has become an ideal platform for conducting psychological research. We proposed to predict active users' personality traits through micro-blogging behaviors. 547 Chinese active users of micro-blogging participated in this study. Their personality traits were measured by the Big Five Inventory, and digital records of micro-blogging behaviors were collected via web crawlers. After extracting 845 micro-blogging behavioral features, we first trained classification models utilizing Support Vector Machine (SVM), differentiating participants with high and low scores on each dimension of the Big Five Inventory. The classification accuracy ranged from 84% to 92%. We also built regression models utilizing PaceRegression methods, predicting participants’ scores on each dimension of the Big Five Inventory. The Pearson correlation coefficients between predicted scores and actual scores ranged from 0.48 to 0.54. By using the predicting model, we can conduct some noval research to investigate the personality of individuals in humanities.
 
-
+***********************************************************
 09:30 - 10:10 Increasing Our Knowledge: Introducing A New Multi-Dimensional Model for Knowledge Assessment and Learning   
 
 by Dr. Dan Bindman, chief data scientist at Yixue Education
