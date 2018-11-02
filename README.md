@@ -29,7 +29,7 @@ by Dr. Tingshao Zhu, talents program of Chinese Academy of Sciences
 
 09:30 - 10:10 Increasing Our Knowledge: Introducing A New Multi-Dimensional Model for Knowledge Assessment and Learning   
 
-by Dr. Dan Bindman, chief data scientist of Yixue Education
+by Dr. Dan Bindman, chief data scientist at Yixue Education
 
 
 10:10 - 10:30 coffee break
@@ -37,12 +37,12 @@ by Dr. Dan Bindman, chief data scientist of Yixue Education
 
 10:30 - 11:10 Connecting Heterogeneous Social Networks(1)
 
-by Dr. Jie Tang, professor of Tsinghua University
+by Dr. Jie Tang, professor at Tsinghua University
 
 
 11:10 - 11:50 Connecting Heterogeneous Social Networks(2)
 
-by Dr. Jing Zhang, professor of Renmin University of China
+by Dr. Jing Zhang, professor at Renmin University of China
 
 
 11:50 - 14:00 lunch break
@@ -50,12 +50,12 @@ by Dr. Jing Zhang, professor of Renmin University of China
 
 14:00 - 14:40 Data-Driven Learning Analytics and its Applications
 
-by Dr. Yu Lu, professor of Beijing Normal University
+by Dr. Yu Lu, professor at Beijing Normal University
 
 
 14:40 - 15:20 Machine Learning for Personalized Teaching and Learning
 
-by Dr. Yupei Zhang, professor of Northwest Polytechnical University
+by Dr. Yupei Zhang, professor at Northwest Polytechnical University
 
 
 ## Organizers:
