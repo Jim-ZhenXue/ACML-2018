@@ -69,7 +69,7 @@ Dr. Tang is an associate professor in Department of Computer Science and Technol
 Dr. Tang has been visiting scholar at Cornell University (working with John Hopcroft), University of Illinois at Urbana-Champaign (short term, working with Jiawei Han), Chinese University of Hong Kong (working with Jeffrey Yu), and Hong Kong University of Science and Technology (working with Qiong Luo). During his graduate career, He has been an intern at NLC group of Microsoft Research Asia from 2004 to 2005. He also have attended the internship program of IBM China Research Lab in 2004.
 
 
-
+********************************************************************
 
 
 
